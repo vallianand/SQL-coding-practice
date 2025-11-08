@@ -59,3 +59,32 @@ It includes queries, triggers, joins, views, procedures, and TCL operations, all
 ## 📂 File Included in this Repository
 
 file.
+
+2. Open the SQL file in **MySQL Workbench** or any SQL editor.
+
+3. Run each section to practice concepts or prepare for interviews.
+
+---
+
+## 🎯 Purpose of This Repository
+
+This repository demonstrates practical understanding of SQL including:
+- Real-world scenarios  
+- Database operations  
+- Backend logic (procedures, triggers)  
+- Data integrity (TCL, constraints)
+
+Useful for:
+- Data Analyst roles  
+- Software Developer roles  
+- SQL interview preparation  
+- Portfolio building  
+- Recruiter evaluation
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me on LinkedIn or GitHub for any collaboration.
+
+
